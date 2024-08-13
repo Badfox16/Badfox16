@@ -1,5 +1,5 @@
 # 🐥 Mutizo de J. Maita
-![image](github-header-image.png)
+![image](banner.png)
 
 **`Techie (Developer)`**
 
