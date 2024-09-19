@@ -5,8 +5,8 @@
 
 ### Hello! I’m Mutizo de J. Maita, a passionate tech enthusiast and programming aficionado. My journey in technology has been fueled by a deep curiosity and a love for problem-solving. I’m excited to collaborate, create, and contribute to innovative projects in the tech world. Let’s code, build, and explore new horizons together!
 
-- ♨️ Currently, I’m immersed in Java development, leveraging the Spring Boot framework, and building dynamic user interfaces with React.
-- 💬 I’m eager to collaborate on Java, Spring Boot, and React projects, and I’m always open to new opportunities to innovate and create together.
+♨️ Currently, I’m immersed in Mobile development, leveraging the Flutter framework, and building dynamic user interfaces with React/NextJS.
+💬 I have a strong interest in various technologies, including HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Node.js, MongoDB, Java, Linux, Git, GitHub, PHP, and Python. I’m eager to collaborate on projects utilizing these technologies and always open to new opportunities to innovate and create together.
 
 <div align="center" style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; margin-top: 2rem;">
 
