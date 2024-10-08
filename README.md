@@ -45,7 +45,7 @@
 <div align="center">
   <a href="https://github.com/Badfox16">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Badfox16&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badfox16&layout=compact&langs_count=6&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badfox16&layout=compact&langs_count=8&theme=dark"/>
   <a/>
 </div>
 
